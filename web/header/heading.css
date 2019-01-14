@@ -1,0 +1,39 @@
+
+body{
+  margin:0%;
+}
+.head{
+  height:130px;
+  background-color: #131313;
+  color:white;
+  padding-right:30px;
+  padding-top:10px;
+
+}
+.lname{
+  font-family : "PT Sans", sans-serif;
+  font-size : 20px;
+  color: whitesmoke;
+  float:right;
+  padding:13px;
+   font-weight: 500;
+}
+.logo{
+  float:left;
+  margin-top:30px;
+  margin-left:80px;
+  height:22%;
+}
+
+.la:link,.la:visited,[class="la"]{
+    color: white;
+    font-family : "PT Sans", sans-serif;
+    font-size : 18px;
+    text-decoration: none;
+    background-color: transparent !important;
+}
+.la:hover,.la:active{
+  color :  whitesmoke;
+  text-decoration: none;
+  background-color: #333333 !important;/*transparent*/
+}

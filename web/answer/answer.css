@@ -1,0 +1,135 @@
+.content{
+    width:800px;
+    background-color :  white;
+    font-family : Open Sans, Arial, sans-serif;
+    margin-left:85px;
+    margin-top: 0px; 
+  
+    float:left;
+    height: auto;
+}
+
+    .tans{
+        
+	font-family: "PT Sans", sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	text-align: center;
+        color: white;
+       
+	background-color:  #FF7361 /*#82B541*/;
+	height: 68px;
+	width: 68px;
+	border: 0px;
+	
+	padding-top: 4px;
+        padding-left: 2px;
+        padding-right: 2px; 
+        
+
+	display: block;
+	z-index: auto;
+        overflow: hidden;
+	cursor: pointer;
+	visibility: visible;
+        
+	transform: none;
+	transition: all 0s ease 0s;
+	outline-offset: 0px;
+	box-sizing: content-box;
+	resize: none;
+	text-shadow: none;
+	text-overflow: clip;
+	word-wrap: normal;
+	box-shadow: none;
+	border-radius: 3px;
+
+        margin: 0px;
+        float:left;
+       
+        
+    }
+          .tano
+          {
+              font-size: 22px;
+	      font-weight:900;
+              color:white;
+              display: block;
+          }
+    
+          
+          .lques{
+              font-family : Arial, Helvetica, sans-serif;
+               font-size : 26px;
+                color: #333333;
+                font-weight : 700;
+                line-height : normal;
+                text-decoration : none solid rgb(245, 193, 66);
+                text-align : left;
+                word-spacing : 0px;
+                padding:10px;
+                padding-top:0px;
+                
+               display:inline-block;
+               margin: 0px;
+              
+          }
+          .sicon
+          {color: #2F3239 /*!important*/ ;
+           font-size:16px;
+           padding: 10px;
+          padding-right: 0px;
+          }
+          .qsask{color: #999999;
+           font-size:15px;
+           padding: 10px;
+           padding-left: 6px;
+           
+          }
+          .qtag
+          {
+            color: #999999;
+           font-size:15px;
+           padding: 10px;
+           padding-left: 6px;  
+          }
+          .vote{
+              font-family : Arial, Helvetica, sans-serif;
+              font-size : 20px;
+               color: #333333;
+               font-weight: 800;
+                text-decoration : none solid rgb(245, 193, 66);
+              margin: 0px;padding: 0px;
+          }
+          .ans{
+              font-family : Arial, Helvetica, sans-serif;
+               font-size : 24px;
+                color:#FF7361;
+                font-weight : 600;
+                line-height : 20px;
+                text-decoration : none solid rgb(245, 193, 66);
+                text-align : left;
+                word-spacing : 0px;
+                display:block;
+                
+          }
+          
+          
+.askq{
+    
+background-color:  #FF7361 !important;
+font-family: Open Sans, Arial, sans-serif;
+font-size : 16px !important;
+font-weight : 700;
+text-decoration : none solid rgb(255, 255, 255);
+color:white !important;
+padding: 12px 20px !important;
+}
+
+.ask:hover
+{
+background-color:  #2F3239 !important;
+color:white !important;
+}
+ 
+

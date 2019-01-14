@@ -1,0 +1,21 @@
+.nav-tabs > li > a:link,.nav-tabs > li > a:visited{
+
+font-family : Arial, Helvetica, sans-serif;
+font-size : 19px;
+color: #333333;
+font-weight : 700;
+line-height : 20px;
+text-decoration : none solid rgb(245, 193, 66);
+word-spacing : 0px;
+padding:15px;
+}
+
+.active > a {
+  color:  #FF7361 !important;
+ border-top: 2px solid  #FF7361 !important;
+}
+.nav-tabs > li > a:active ,.nav-tabs >li > a:hover{
+    color:  #FF7361 !important ;
+    background-color: transparent;
+   border:0px;
+}
